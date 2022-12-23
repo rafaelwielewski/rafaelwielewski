@@ -7,5 +7,5 @@ I am a software developer from Brazil.
  2. ✅ Clean Code
 
 ### Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=flat-square&logo=Linkedin&logoColor=white&link=)]() 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)]() 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaw99@gmail.com)](mailto:rafaw99@gmail.com)
