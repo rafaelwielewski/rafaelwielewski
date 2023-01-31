@@ -3,8 +3,11 @@
 I am a software developer from Brazil.
 
 ### 🛠️ Skills
- 1. ✅ PHP | Javascript | HTML | CSS | Vue 3 | MySQL
- 2. ✅ Clean Code
+ 1. ✅ HTML | CSS | Boostrap | Tailwindcss
+ 2. ✅ PHP | Javascript
+ 3. ✅ React | Next.js | Vue.js
+ 4. ✅ Node.js | Nest.js | Docker
+ 5. ✅ Clean Code
 
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)]() 
