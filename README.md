@@ -1,4 +1,7 @@
-## Hi 👋, I'm Rafael Wielewski
+<h1 align="center">Hi 👋, I'm Rafael Wielewski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;PHP%20|%20Flutter%20|%20Javascript%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 I am a software developer from Brazil.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
