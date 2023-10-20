@@ -12,11 +12,11 @@ I am a software developer from Brazil.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelwielewski&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelwielewski&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelwielewski&show_icons=true&theme=midnight-purple" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelwielewski&theme=midnight-purple" width="45%"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwielewski&theme=tokyonight&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwielewski&theme=midnight-purple&layout=compact" width="45%" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
